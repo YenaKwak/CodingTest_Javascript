@@ -1,2 +1,2 @@
 # CodingTest_Javascript
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+This is my repository for studying algorithms using JavaScript.
