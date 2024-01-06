@@ -16,6 +16,7 @@ function solution(price){
   let discountAmount = price * discountRate;
     let discountedPrice = price - discountAmount;
     return Math.floor(discountedPrice);
+// 소수점 이하를 버린 정수로 반환하기 위해서는 Math.floor 함수를 사용
 }
 
 
