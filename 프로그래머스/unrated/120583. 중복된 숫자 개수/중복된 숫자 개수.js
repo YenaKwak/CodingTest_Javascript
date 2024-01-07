@@ -13,3 +13,11 @@ let someArray =[1, 1, 2, 3, 4, 5];
 let n = 1;
 let result = solution(someArray, n);
 console.log(result);
+
+
+
+
+
+function solution(array, n) {
+    return array.filter(v => v===n).length;
+}
