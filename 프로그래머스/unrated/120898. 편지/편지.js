@@ -1,3 +1,7 @@
+// I am trying to write each letter at a size of 2cm horizontally so that
+// my grandmother can easily see it. When writing the letter only horizontally,
+// please complete the solution function to return the minimum horizontal length of the letter paper needed to write the congratulatory message.
+
 function solution(message){
     let paperWidth = 0;
     
