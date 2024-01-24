@@ -12,3 +12,12 @@ function solution(array, n) {
 
     return closestNumber;
 }
+
+
+
+
+function solution(array, n) {
+    array.sort((a,b) => Math.abs(n - a) - Math.abs(n - b) || a - b);
+
+    return array[0];
+}
